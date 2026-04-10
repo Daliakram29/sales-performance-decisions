@@ -13,11 +13,11 @@ Discount band analysis across customer segments
 Interactive filters (Year, Country, Segment, Product)
 
 # Tools & Technologies
-Power BI Desktop
-Data modeling
-DAX (for calculated measures and KPIs)
-Data visualization
+- Power BI Desktop
+- Data modeling
+- DAX (for calculated measures and KPIs)
+- Data visualization
 
 # Repository Contents
-Power BI report (.pbix)
-Dashboard preview (PDF)
+- Power BI report (.pbix)
+- Dashboard preview (PDF)
