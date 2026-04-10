@@ -1,4 +1,4 @@
-# sales-performance-decisions
+# sales-performance-decisions dashboard
 Interactive Power BI dashboard analyzing sales performance, profit trends, and segment distribution across multiple countries and product lines.
 Dataset
 Based on a sample financial dataset covering 2013–2014 across 5 countries (Canada, France, Germany, Mexico, and the United States).
